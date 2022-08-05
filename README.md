@@ -1,13 +1,30 @@
-# JSON APIs and AJAX
+## Responsive Web Design
 
-D3, or D3.js, stands for Data Driven Documents. It's a JavaScript library for creating dynamic and interactive data visualizations in the browser.
+In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (HyperText Markup Language) for content, and CSS (Cascading Style Sheets) for design.
 
-D3 is built to work with common web standards – namely HTML, CSS, and Scalable Vector Graphics (SVG).
+First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a web form.
 
-D3 supports many different kinds of input data formats. Then, using its powerful built-in methods, you can transform those data into different charts, graphs, and maps.
+Finally, you'll learn how to make web pages that respond to different screen sizes by building a Twitter card with Flexbox, and a complex blog layout with CSS Grid.
 
-In the Data Visualization with D3 courses, you'll learn how to work with data to create different charts, graphs, hover elements, and other ingredients to create dynamic and attractive data visualizations.Similar to how UIs help people use programs, APIs (Application Programming Interfaces) help programs interact with other programs. APIs are tools that computers use to communicate with one another, in part to send and receive data.
-
-Programmers often use AJAX (Asynchronous JavaScript and XML) when working with APIs. AJAX refers to a group of technologies that make asynchronous requests to a server to transfer data, then load any returned data into the page. And the data transferred between the browser and server is often in a format called JSON (JavaScript Object Notation).
-
-This course will teach you the basics about working with APIs and different AJAX technologies in the browser.
+<ul>
+  <li>Building a Cat Photo App</li>
+  <li>Building a Coffee Menu</li>
+  <li>Building a Set of Colored Markers</li>
+  <li>Building a Registration Form</li>
+  <li>Survey Form</li>
+  <li>CSS Box Model by Building a Rothko Painting</li>
+  <li>CSS Flex box by Building a Photo Gallery</li>
+  <li>Typography by Building a Nutrition Label</li>
+  <li>Accessibility by Building a Quiz</li>
+  <li>Tribute Page</li>
+  <li>CSS Pseudo Selectors by Building a Balance Sheet</li>
+  <li>Intermediate CSS by Building a Picasso Painting</li>
+  <li>Responsive Web Design by Building a Piano</li>
+  <li>Technical Documentation Page</li>
+  <li>CSS Variables by Building a City Skyline</li>
+  <li>CSS Grid by Building a Magazine</li>
+  <li>Product Landing Page</li>
+  <li>CSS Transforms by Building a Penguin</li>
+  <li>CSS Animation by Building a Ferris Wheel</li>
+  <li>Personal Portfolio Webpage</li>
+</ul>
